@@ -8,7 +8,7 @@ header {
   text-align: center;
 }
 
-.featured-property {
+id#featured-property {
   align-content: center;
   width: 800px;
   text-align: center;
