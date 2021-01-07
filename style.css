@@ -8,17 +8,17 @@ header {
   text-align: center;
 }
 
-#featured-property {
+.featured-property {
   align-content: center;
   width: 800px;
   text-align: center;
 }
 
-#figcaption {
+.figcaption {
   font-size: 10px;
   text-align: center;
 }
 
-#detail {
+.detail {
 float: left;
 }
