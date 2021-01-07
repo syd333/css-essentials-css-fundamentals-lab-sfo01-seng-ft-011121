@@ -8,6 +8,10 @@ header {
   text-align: center;
 }
 
+navbar {
+  padding: 10px
+}
+
 #featured-property {
   align-content: center;
   width: 800px;
