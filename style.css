@@ -10,6 +10,7 @@ header {
 
 p#featured-property {
   align-content: center;
+  width: 800px
 }
 
 p#figcaption {
